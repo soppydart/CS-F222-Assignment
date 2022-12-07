@@ -1,3 +1,6 @@
+// Pritam Basu 2021A7PS2175H
+// Saksham Attri 2021A7PS2950H
+
 #include <stdio.h>
 #include <stdlib.h>
 
